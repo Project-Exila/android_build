@@ -94,7 +94,6 @@ project_list = [
     create_pattern('hardware/interfaces'),
     create_pattern('hardware/libhardware'),
     create_pattern('hardware/libhardware_legacy'),
-    create_pattern('hardware/qcom'),
     create_pattern('hardware/ril'),
     create_pattern('hardware/Other', 'hardware'),
     create_pattern('kernel'),
